@@ -1,16 +1,18 @@
-### Hi there 👋
+# HELLO GITHUBB! 🐤
 
-<!--
-**emrnel/emrnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Mindmark project.
+- 🌱 I’m currently learning Dart and Flutter.
+- 🤔 I’m looking for help with further development of Mindmark.
 
-Here are some ideas to get you started:
+> _But what is Mindmark?_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mindmark is my mobile app project, and my goal is to develop a sample (early prototype) due to March 16th.
+
+**TIMELINE**
+---
+-> Early Prototype **(March 16th 2024)**  
+-> Prototype **(April 12th 2024)**  
+-> Setting up a business strategy  
+-> Publishing Mindmark 1.0 on Play Store & App Store **(May 4th 2024)**
+
+Good luck all 🍀
