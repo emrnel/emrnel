@@ -1,11 +1,12 @@
-# Hey there 👋
+# Emre Ilhan Senel
 
-CS student building mobile apps and exploring different tech.
+Full-stack engineer & ML researcher building AI-native fintech products.
 
-## Tech Stack
-`Flutter` `Firebase` `Python` `Java` `C/C++`
+Currently: TÜBİTAK researcher (greenwashing detection via NLP + CV) and building [Grendex](https://grendex.co) — AI-powered ESG compliance for banks.
 
-Check out my pinned projects below!
+**Other projects:**
+[Virgola](https://virgola.app) · [Stoknet](https://stoknet.com)
 
----
-📍 Istanbul | 🎓 Gebze Technical University
+**Stack:** TypeScript, Python, Dart, Java · React, Next.js, React Native, Flutter · Node.js, FastAPI · PostgreSQL, Firebase · LangChain, Docling
+
+📍 Istanbul · 🎓 CS @ Gebze Technical University
