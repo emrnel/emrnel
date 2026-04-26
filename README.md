@@ -1,6 +1,6 @@
 Full-stack engineer & ML researcher building AI-native fintech products.
 
-Currently: TÜBİTAK researcher (greenwashing detection via NLP + CV) and building [Grendex](https://grendex.co) — AI-powered ESG compliance for banks.
+Currently: TÜBİTAK researcher (greenwashing detection via NLP + CV) and building [Grendex](https://grendex.co), AI-powered ESG compliance software.
 
 **Other projects:**
 [Virgola](https://virgola.app) · [Stoknet](https://stoknet.com)
